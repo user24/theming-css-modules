@@ -18,3 +18,9 @@
   font-family: var(--font-mono);
   color: black;
 }
+.dank_description {
+  background-image: radial-gradient(circle, #f474f9, #c699ff, #9db3ff, #89c5ff, #94d2fc, #88d9f9, #82dff3, #84e4e9, #51e9da, #29ecbc, #3eeb90, #6ae856);
+  padding: 40px;
+  color: white;
+  font-size: 40pt;
+}
